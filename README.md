@@ -51,7 +51,6 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Prerequisites
 
 - Python 3.11 or higher installed on your system.
-- uv (a fast Python package installer and runner) installed. If not, you can install it via pip install uv or refer to its official documentation.
 - A [DashScope API Key](https://dashscope.console.aliyun.com/apiKey) from Alibaba Cloud.
 
 ### 2. Clone the Repository
