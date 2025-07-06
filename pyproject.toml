@@ -1,0 +1,17 @@
+[project]
+name = "developstoday"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=0.6.3",
+    "dashscope>=1.23.6",
+    "fastapi[standard]>=0.115.6",
+    "langchain-community>=0.3.26",
+    "langchain-google-genai>=2.0.8",
+    "langchain-google-vertexai>=2.0.11",
+    "langchain-openai>=0.3.0",
+    "langchain>=0.3.14",
+    "pandas>=2.2.3",
+]
